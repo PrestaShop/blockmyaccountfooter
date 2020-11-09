@@ -40,7 +40,7 @@ class BlockMyAccountFooter extends Module
 		parent::__construct();
 
 		$this->displayName = $this->l('My account block for your website\'s footer');
-		$this->description = $this->l('Displays a block with links relative to user accounts.');
+		$this->description = $this->l('Welcome your customers with their personal information displayed right on your footer.');
 		$this->ps_versions_compliancy = array('min' => '1.6', 'max' => '1.6.99.99');
 	}
 

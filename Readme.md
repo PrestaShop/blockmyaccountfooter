@@ -2,7 +2,7 @@
 
 ## About
 
-Displays a block with links relative to user accounts.
+Welcome your customers with their personal information displayed right on your footer.
 
 ## Contributing
 
